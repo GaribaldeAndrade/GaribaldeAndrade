@@ -15,6 +15,8 @@
   <img align="right" alt="Gengar-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/9NxnF7x/Fixed-Flustered-Alligatorsnappingturtle-small.gif">
 </div>
   
+  📚 Graduating in Computer Science
+  
   ##
  
 <div> 
