@@ -1,4 +1,5 @@
-##  Hi, I'm Arthur Oliveira!
+##  Hi, I'm Garibalde Andrade!
+- 📚 Graduating in Computer Science.
 <div align="center">
   <a href="https://github.com/GaribaldeAndrade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaribaldeAndrade&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -14,8 +15,6 @@
   <img align="center" alt="gj-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Gengar-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/9NxnF7x/Fixed-Flustered-Alligatorsnappingturtle-small.gif">
 </div>
-  
-  📚 Graduating in Computer Science
   
   ##
  
